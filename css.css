@@ -1,0 +1,108 @@
+.header {
+    position: relative;
+    width: 990px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: aqua;
+    left: 200px;
+    top: 50px;
+}
+
+.header2 {
+    position: relative;
+    width: 990px;
+    height: 45px;
+    margin: 0 auto;
+    background-color: blueviolet;
+    left: 200px;
+    top: 60px;
+}
+
+.header3 {
+    position: relative;
+    width: 550px;
+    height: 100px;
+    margin: 0 auto;
+    background-color:hotpink;
+    float: left;
+    left: 200px;
+    top: 70px;
+}
+
+.header4 {
+    position: relative;
+    float: left;
+    width: 420px;
+    height: 100px;
+    background-color: brown;
+    left: 800px;
+    margin: -30px;
+}
+
+.header5 {
+    position: relative;
+    width: 550px;
+    height: 400px;
+    margin: 0 auto;
+    background-color:gold;
+    left: 80px;
+    top: 200px;
+
+}
+
+.header6 {
+    position: relative;
+    float: left;
+    width: 420px;
+    height: 150px;
+    background-color:blue;
+    left: 800px;
+    margin: -30px;
+    top: -180px;
+}
+
+.header7 {
+    position: relative;
+    float: left;
+    width: 420px;
+    height: 610px;
+    background-color:black;
+    left: 440px;
+    margin: -30px;
+    top: 3px;
+}
+
+.header8 {
+    position: relative;
+    width: 550px;
+    height: 190px;
+    margin: 0 auto;
+    background-color:salmon;
+    left: 80px;
+    top: 230px;
+}
+
+.header9 {
+    position: relative;
+    width: 550px;
+    height: 150px;
+    margin: 0 auto;
+    background-color:lightseagreen;
+    left: 80px;
+    top: 240px;
+}
+
+.end {
+    position: relative;
+    width: 990px;
+    height: 180px;
+    margin: 0 auto;
+    background-color:green;
+    left: 200px;
+    top: 280px;
+}
+
+
+.container {
+    width: 800px;
+}
